@@ -11,6 +11,12 @@ AchillesAlbacete's Stats: https://github.com/AchillesAlbacete
 💬 Ask me about anything!
 📫 How to reach me: 20220024440@my.xu.edu.ph & https://www.linkedin.com/in/achilles-albacete-22b9753a9/
 
+🔥Fun Fact About Me🔥:
+
+🔥I am handsome
+🔥I am smart
+🔥I am learning github
+
 
 💻 Tech Stack My Skills:https://codepen.io/your-work
 
