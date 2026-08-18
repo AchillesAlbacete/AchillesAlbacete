@@ -1,6 +1,6 @@
 Hi, I'm Achilles A. Albacete! 👋
 
-I am a passionate IT student at Ateneo de Cagayan - Xavier University, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of Information Technology, exploring new ideas, and sharing my insights with the community.
+I am a passionate 3rd year B.S.I.T student at Ateneo de Cagayan - Xavier University, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of Information Technology, exploring new ideas, and sharing my insights with the community.
 
 AchillesAlbacete's Stats: https://github.com/AchillesAlbacete
 
@@ -8,25 +8,67 @@ AchillesAlbacete's Stats: https://github.com/AchillesAlbacete
 
 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University.
 🌱 I’m currently learning Full Stack Web Development and API creation.
-💬 Ask me about anything!
+💬 I am doing my best to survive this semester.
 📫 How to reach me: 20220024440@my.xu.edu.ph & https://www.linkedin.com/in/achilles-albacete-22b9753a9/
 
 🔥Fun Fact About Me🔥:
 
 🔥I am handsome
 🔥I am smart
+🔥I have rizz
+🔥I am named after a greek warrior
 🔥I am learning github
 
 
-💻 Tech Stack My Skills:https://codepen.io/your-work
+💻 Tech Stack:
 
-🌱 Currently Exploring
+ My Skills:https://codepen.io/your-work
+
+===================================
+🌱 Currently Exploring:         ||
+                                 ||
+  ___ ___   __          .__      ||
+ /   |   \_/  |_  _____ |  |     ||
+/    ~    \   __\/     \|  |     ||      
+\    Y    /|  | |  Y Y  \  |__   ||                  
+ \___|_  / |__| |__|_|  /____/   ||
+       \/             \/         ||                          
+ ================================||
+ _________                 ||                        
+\_   ___ \  ______ ______  ||
+/    \  \/ /  ___//  ___/  ||
+\     \____\___ \ \___ \   ||
+ \______  /____  >____  >  ||
+        \/     \/     \/   ||       
+=========================================================================||
+      ____.                       _________            .__        __     ||
+    |    |____ ___  _______     /   _____/ ___________|__|______/  |_    ||
+    |    \__  \\  \/ /\__  \    \_____  \_/ ___\_  __ \  \____ \   __\   ||
+/\__|    |/ __ \\   /  / __ \_  /        \  \___|  | \/  |  |_> >  |     ||
+\________(____  /\_/  (____  / /_______  /\___  >__|  |__|   __/|__|     ||
+              \/           \/          \/     \/         |__|            ||
+=========================================================================||                                                     ||
+  _________________  .____        ||
+ /   _____/\_____  \ |    |       ||
+ \_____  \  /  / \  \|    |       ||
+ /        \/   \_/.  \    |___    ||
+/_______  /\_____\ \_/_______ \   ||
+        \/        \__>       \/   ||
+==================================||                                                            ===========================================================
+ _______             .___               ____. _________    ||
+ \      \   ____   __| _/____          |    |/   _____/    ||
+ /   |   \ /  _ \ / __ |/ __ \         |    |\_____  \     ||
+/    |    (  <_> ) /_/ \  ___/     /\__|    |/        \    ||
+\____|__  /\____/\____ |\___  > /\ \________/_______  /    ||
+        \/            \/    \/  \/                  \/     ||
+===========================================================||                                                       
+                                                                                
 
 🚀 Learning Full Stack Web Development
 Exploring the ins and outs of React.
 Building server-side applications with Django or Express.js.
 🏆 Achievements
 
-🌟 Completed Git & GitHub Setup 2024
+🌟 Completed Git & GitHub Setup 2026
 🔭 I’m currently working on my final API project.
 Thanks for stopping by!
